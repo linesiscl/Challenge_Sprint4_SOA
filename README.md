@@ -114,8 +114,8 @@ Authorization: Bearer <seu-token-jwt>
 **Exemplo de requisição:**
 ```json
 {
-  "nome": "Tesouro Direto",
-  "valor": 1500.00
+  "assetName": "Tesouro Direto",
+  "amount": 1500.00
 }
 ```
 
